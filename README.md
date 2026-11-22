@@ -31,6 +31,25 @@
 <br>
 <br>
 
+<h3><code>osk2004@github ~ $ ./projects.sh</code></h3>
+
+<img src="./projects-header.svg" width="860" alt="Featured projects" />
+
+<br>
+
+<a href="https://github.com/Osk2004/sql-data-warehouse-project">
+  <img src="./card-data-warehouse.svg" width="860" alt="SQL Data Warehouse — Medallion Architecture project" />
+</a>
+
+<br>
+
+<a href="https://github.com/Osk2004/Interactive-Student-Performance-Visualization-Using-Tableau">
+  <img src="./card-student-dashboard.svg" width="860" alt="Student Performance — Tableau dashboard project" />
+</a>
+
+<br>
+<br>
+
 <h3><code>osk2004@github ~ $ ./tools.sh --orbit</code></h3>
 
 <img src="./stack-orbit.svg" width="860" alt="Tech stack orbit — SQL, Python, Tableau, Excel, Power Query, MySQL" />
