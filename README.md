@@ -5,7 +5,6 @@
 <br>
 <br>
 
-<h3><code>osk2004@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -17,21 +16,18 @@
 <br>
 <br>
 
-<h3><code>osk2004@github ~ $ ./run_pipeline.sh</code></h3>
 
 <img src="./pipeline-terminal.svg" width="860" alt="Medallion architecture data warehouse pipeline" />
 
 <br>
 <br>
 
-<h3><code>osk2004@github ~ $ ./dashboard.sh</code></h3>
 
 <img src="./dashboard.svg" width="860" alt="Analytics dashboard — KPIs and projects" />
 
 <br>
 <br>
 
-<h3><code>osk2004@github ~ $ ./projects.sh</code></h3>
 
 <img src="./projects-header.svg" width="860" alt="Featured projects" />
 
@@ -50,21 +46,18 @@
 <br>
 <br>
 
-<h3><code>osk2004@github ~ $ ./tools.sh --orbit</code></h3>
 
 <img src="./stack-orbit.svg" width="860" alt="Tech stack orbit — SQL, Python, Tableau, Excel, Power Query, MySQL" />
 
 <br>
 <br>
 
-<h3><code>osk2004@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>osk2004@github ~ $ ./links.sh</code></h3>
 
 <p><b>Om Suresh Kulthe · Data Analyst · SQL · Python · Tableau</b></p>
 
